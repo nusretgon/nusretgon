@@ -1,11 +1,6 @@
 ### Hi there 👋
 
 
-
-🌱 I’m currently learning Kotlin.
-
-
-
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=nusretgon&show_icons=true&theme=dark"
